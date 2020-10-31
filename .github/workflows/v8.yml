@@ -14,7 +14,7 @@ on:
 
 env:
   PATCH_FLAG: true
-  COMMIT: 414d114aaaad4f0cac357eb2705a71e3ca7bf898
+  COMMIT: 5ce0c2f800ad6b7789f0df1e1dc6c2ee0eadf78c
   DEPOT_UPLOAD: true
   SRC_UPLOAD: true
   BINARY_UPLOAD: false
